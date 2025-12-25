@@ -43,7 +43,7 @@ The goal is to explore how the Schnorr Signcryption mechanism can be effectively
 5. **Reconstruction:** Convert decrypted integers back into black-and-white image format.
 
 ### 📘 Workflow Diagram
-![Workflow Diagram](docs/workflow_chart.png)
+![Workflow Diagram](docs/Workflow.png)
 
 ---
 
