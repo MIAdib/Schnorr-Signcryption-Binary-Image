@@ -49,10 +49,32 @@ The goal is to explore how the Schnorr Signcryption mechanism can be effectively
 
 ## 🧰 Technologies Used
 
-- **Language:** Python 3.x  
-- **Libraries:** NumPy, OpenCV, hashlib, time, matplotlib  
-- **Tools:** Google Colab / Jupyter Notebook  
-- **Documentation:** Microsoft Word, PowerPoint  
+<table>
+   <thead>
+      <tr>
+         <th>Categorized</th>
+         <th>Tools Used</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Language</td>
+         <td>Python</td>
+      </tr>
+      <tr>
+         <td>Libraries</td>
+         <td>Numpy, OpenCV, hashlib, time, matplotlib</td>
+      </tr>
+      <tr>
+         <td>Tools</td>
+         <td>Google Colab, Jupyter Notebook</td>
+      </tr>
+      <tr>
+         <td>Documentation</td>
+         <td>Microsoft Word, PowerPoint</td>
+      </tr>
+   </tbody>
+</table>
 
 ---
 
