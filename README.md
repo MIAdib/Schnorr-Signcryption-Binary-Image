@@ -6,7 +6,7 @@
 
 > **Final Year Project (FYP)** – Universiti Teknologi MARA (UiTM)  
 > **Author:** Mohamad Izzul Adib Bin Shamsudin  
-> **Supervisor:** Sir Nizam Udin
+> **Supervisor:** Sir Nizam Udin  
 > **Field:** Cryptography and Image Security  
 
 ---
